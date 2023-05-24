@@ -1,0 +1,19 @@
+# IntelliJ
+.bsp/
+.idea/
+
+# macOS
+.DS_Store
+
+# SBT
+target/
+
+# VS Code
+.bloop/
+.metals/
+.vscode/
+project/metals.sbt
+project/project/metals.sbt
+
+# bsp
+.scala-build
